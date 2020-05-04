@@ -1,0 +1,18 @@
+.login-form {
+    position: fixed;
+    top: 40%;
+    left: 45%;
+    /* background-color: yellow; */
+}
+#backgnd-yellow {
+    background-color: yellow;
+}
+
+.backgnd-red {
+    background-color: blue;
+}
+
+.shop-image {
+    background-image: url(./shopping.jpg);
+    background-repeat: no-repeat;
+}
